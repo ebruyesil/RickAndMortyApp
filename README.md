@@ -9,8 +9,7 @@ This is a mobile application that lists Rick and Morty characters, locations and
 - Easy to use interface.
 
 ## Screenshots
-
-![Screenshot](![readme](https://github.com/user-attachments/assets/d44f7720-4cbc-4085-b62e-aff54d4e057b))
+![readme](https://github.com/user-attachments/assets/d44f7720-4cbc-4085-b62e-aff54d4e057b)
 
 
 ## Usage
