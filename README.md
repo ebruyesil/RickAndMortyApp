@@ -16,4 +16,4 @@ This is a mobile application that lists Rick and Morty characters, locations and
 
 1. Clone the project.
    ```bash
-   git clone https://github.com/your_username/RickAndMortyApp.git
+   git clone https://github.com/ebruyesil/RickAndMortyApp.git
